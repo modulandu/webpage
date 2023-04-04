@@ -89,7 +89,7 @@ dateFormat = "January 2, 2006"
 authorName = "Federico Ober"
 disqusComments = "test" #YOUR DISQUS COMMENTS SHORTNAME
 formspreeURL = "" #YOUR FORMSPREE URL
-googleAnalytics = "" #YOUR GOOGLE ANALYTICS CODE
+googleAnalytics = "G-03JK3CH1S4" #YOUR GOOGLE ANALYTICS CODE
 
 # Preloader Settings
 [params.preloader]
