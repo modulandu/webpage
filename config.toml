@@ -93,7 +93,7 @@ googleAnalytics = "" #YOUR GOOGLE ANALYTICS CODE
 
 # Preloader Settings
 [params.preloader]
-logo = "images/logo.png"
+logo = "images/logo-face.png"
 
 # Header Settings
 [params.header]
