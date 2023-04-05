@@ -1,12 +1,15 @@
 # General Settings
-title = "Modulandu -- Music Tracks, Stems and Instruments"
+#title = "Modulandu"
 baseURL = "https://modulandu.com" #YOUR SITE URL
-languageCode = "en-us"
+#languageCode = "en-us"
+#languageCode = "pt-br"
 theme = "aster"
 resourceDir = "resources"
 paginate = 4
 summaryLength = 20
-DefaultContentLanguage = "en"
+
+# en (English, default)  - pt (Portuguese)
+defaultContentLanguage = 'en'
 
 # Menu Settings
 [menu]
@@ -86,10 +89,29 @@ DefaultContentLanguage = "en"
 # Main Settings
 [params]
 dateFormat = "January 2, 2006"
-authorName = "Federico Ober"
-disqusComments = "test" #YOUR DISQUS COMMENTS SHORTNAME
-formspreeURL = "" #YOUR FORMSPREE URL
+authorName = "Fernando Filho"
+#disqusComments = "test" #YOUR DISQUS COMMENTS SHORTNAME
+#formspreeURL = "" #YOUR FORMSPREE URL
 googleAnalytics = "G-03JK3CH1S4"
+
+# Language-specific configuration
+[languages]
+  [languages.en]
+    title = 'Modulandu - Music production'
+    weight = 1
+    #[languages.en.params]
+      #dateFormat = "January 2, 2006"
+      #linkedin = 'https://linkedin.com/whoever'
+  [languages.pt]
+    title = 'Modulandu - Produção musical'
+    weight = 2
+    #[languages.pt.params]
+      #dateFormat = "2 de Janeiro de 2006"
+      #linkedin = 'https://linkedin.com/fr/whoever'
+    [[languages.pt.menu.main]]
+      identifier = "about"
+      name = 'Sobre'
+      #url = '/pt/about'
 
 # Preloader Settings
 [params.preloader]
@@ -101,35 +123,26 @@ logo = "images/logo.png"
 
 # Footer Settings
 [params.footer]
-copyright = "Copyright © 2022 Aster"
+copyright = "Copyright © 2023 Modulandu"
 col1_title = "Address:"
 col1_text = "Ridgewood Queens,<br/>NY 11385, USA"
 col2_title = "Follow Us:"
 col2_text = ""
 col3_title = "Get in touch:"
-col3_text = "asteragency@domain.com<br/>+012 (234) 567 78"
+col3_text = "modulandu@gmail.com"
 
 # Social Settings
 [[params.social]]
 title = "Instagram"
-icon = "fab fa-twitter"
-url = "https://www.twitter.com/"
+icon = "fab fa-instagram"
+url = "https://instagram.com/modulandu"
 weight = 1
 [[params.social]]
-title = "Twitter"
-icon = "fab fa-twitter"
-url = "https://www.twitter.com/"
+title = "SoundCloud"
+icon = "fab fa-soundcloud"
+url = "https://soundcloud.com/modulandu"
 weight = 1
-[[params.social]]
-title = "Dribbble"
-icon = "fab fa-dribbble"
-url = "https://www.dribbble.com/"
-weight = 2
-[[params.social]]
-title = "Behance"
-icon = "fab fa-behance"
-url = "https://www.behance.net/"
-weight = 3
+
 
 # Sidebar
 [params.sidebar]
