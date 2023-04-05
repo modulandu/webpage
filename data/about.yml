@@ -6,7 +6,7 @@
 ### Parallax [parallaxSection]
 parallax:
   enable: 1
-  image: "/images/about2.jpg"
+  image: "/images/about/about2.jpg"
 
 ### Description [ descriptionSection ]
 description:
