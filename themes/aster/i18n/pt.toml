@@ -1,0 +1,96 @@
+[all]
+other = "Todos"
+
+[readMore]
+other = "Leia mais"
+
+[seeDetails]
+other = "veja os detalhes"
+
+[by]
+other = "Por"
+
+[yourName]
+other = "Nome"
+
+[enterYourName]
+other = "Escreva o seu nome completo"
+
+[yourEmail]
+other = "Email"
+
+[enterYourEmail]
+other = "Escreva o seu e-mail"
+
+[yourMessage]
+other = "Mensagem"
+
+[enterYourMessage]
+other = "Escreva a sua mensagem aqui"
+
+[submit]
+other = "Enviar"
+
+[getInTouch]
+other = "Entre em contato"
+
+[latestPosts]
+other = "Últimos Posts"
+
+[taxonomyPageList]
+other = "Últimos Posts por"
+
+[readingTime]
+one = "1 min de leitura"
+other = "{{ .Count }} mins de leitura"
+
+[share]
+other = "Compartilhar"
+
+[shareOn]
+other = "Compartilhe"
+
+[tags]
+other = "Tags"
+
+[comments]
+other = "COmentários"
+
+[nextPost]
+other = "Próximo Post"
+
+[prevPost]
+other = "Post Anterior"
+
+[nextProject]
+other = "Próximo Projeto"
+
+[prevProject]
+other = "Projeto Anterior"
+
+[successMessage]
+other = "Obrigada, sua mensagem foi enviada com sucesso."
+
+[developedBy]
+other = "Desenvolvido por"
+
+[category]
+other = "Categoria"
+
+[search]
+other = "Busca"
+
+[searchFor]
+other = "Buscar por:"
+
+[categories]
+other = "Categorias"
+
+[errorNum]
+other = "404"
+
+[errorTitle]
+other = "Oooops!"
+
+[errorText]
+other = "A página que você procura não existe ou foi movida."
