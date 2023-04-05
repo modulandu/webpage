@@ -11,13 +11,12 @@ parallax:
 ### Description [ descriptionSection ]
 description:
   enable: 1
-  title: "We are startup<br />digital agency"
-  column1: "
-    A Los Angeles based studio building handcrafted websites and brands for companies and all over the world. It is not enough that we build products that function, that are understandable and usable, we also need to build products that bring joy and excitement, pleasure and fun, and, yes, beauty to people’s lives. Creativity is to discover a question that has never been asked. If one brings up an idiosyncratic questionl.
-  "
-  column2: "
-    The development of digital marketing is inseparable from technology development. One of the first key events happened in 1971, when Ray Tomlinson sent the first email, and his technology set the platform to allow people to send and receive files through different machines. However, the more recognizable period as being the start of Digital Marketing is 1990 as this was where the Archie search engine was created as an index for FTP sites.
-  "
+  title: "Soluções em som <br /> e música"
+  column1: "Dividimos uma paixão por descobrir novos sons e diferentes músicas e decidimos compartilhar esta paixão. Então nós criamos Modulandu.
+  Música pode ser modulada de diversas maneiras: rítmica e harmonicamente, mas também histórica e culturalmente. Sons modulam o nosso humor e os nossos sentidos, fazem nosso corpo se mover e nossas emoções fluírem. Nosso trabalho é potencializar a música como uma modulação de nossas vidas, é fazer seu produto soar único e tornar a experiência sonora dos conteúdos
+digitais memorável."
+
+  column2: "Trata-se de sentir, compreender e apreciar a música e os sons. De saber mais sobre as pessoas que criam e criar com elas. Nós inventamos e facilitamos o desenvolvimento de uma identidade sonora para seu produto ou serviço. Ensinamos maneiras de aprimorar a parte sonora e musical de seu trabalho e prestamos consultoria para a produção sonora de conteúdos digitais. Venha conosco nesta viagem."
 
 ### Services [ servicesSection ]
 services:
@@ -48,9 +47,15 @@ services:
       icon: "far fa-life-ring"
       text: "Services to assist customers in making cost effective and correct use of a product."
 
+### Video [ videoSection ]
+video:
+  enable: 1
+  image: "/images/about/video.jpg"
+  video_id: "Gu6z6kIukgg"
+
 ### List [ listSection ]
 list:
-  enable: 1
+  enable: 0
   title: "Our vision"
   items:
     - num: "01."
@@ -65,32 +70,26 @@ list:
     - num: "04."
       text: "Content Generation and Optimization"
 
-### Video [ videoSection ]
-video:
-  enable: 1
-  image: "/images/started-n7.jpg"
-  video_id: "Gu6z6kIukgg"
-
 ### Team [ teamSection ]
 team:
   enable: 1
   title: "Meet the team"
   items:
-    - name: "Natasha Singh"
-      subname: "Founder"
-      image: "/images/team5.jpg"
+    - name: "Fernando Filho"
+      #subname: "Founder"
+      image: "/images/team/team5.jpg"
 
-    - name: "Robert Long"
-      subname: "Co-founder"
-      image: "/images/team1.jpg"
+    - name: "Lucas Jardim"
+      #subname: "Co-founder"
+      image: "/images/team/team1.jpg"
 
-    - name: "Viktoria Freeman"
-      subname: "Designer"
-      image: "/images/team2.jpg"
+    - name: "Mileny Galdino"
+      #subname: "Designer"
+      image: "/images/team/team2.jpg"
 
 ### Testimonial [ testimonialSection ]
 testimonial:
-  enable: 1
+  enable: 0
   title: "Our testimonials"
   items:
     - name: "John Smith"
@@ -115,7 +114,7 @@ testimonial:
 
 ### Clients [ clientsSection ]
 clients:
-  enable: 1
+  enable: 0
   items:
     - title: "Company"
       image: "/images/brand_logo_03_1.png"
