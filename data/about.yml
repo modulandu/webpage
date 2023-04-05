@@ -117,19 +117,19 @@ clients:
   enable: 0
   items:
     - title: "Company"
-      image: "/images/brand_logo_03_1.png"
+      image: "/images/brand/brand_logo_03_1.png"
       link: ""
 
     - title: "Company"
-      image: "/images/brand_logo_08_1.png"
+      image: "/images/brand/brand_logo_08_1.png"
       link: ""
 
     - title: "Company"
-      image: "/images/brand_logo_06_1.png"
+      image: "/images/brand/brand_logo_06_1.png"
       link: ""
 
     - title: "Company"
-      image: "/images/brand_logo_05_1.png"
+      image: "/images/brand/brand_logo_05_1.png"
       link: ""
 
 ### Cotacts [ contactSection ]
