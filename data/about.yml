@@ -12,7 +12,7 @@ parallax:
 description:
   enable: 1
   title: "Soluções em som <br /> e música"
-  column1: "Dividimos uma paixão por descobrir novos sons e diferentes músicas e decidimos compartilhar esta paixão. Então nós criamos Modulandu.
+  column1: "Dividimos uma paixão por descobrir novos sons e decidimos compartilhar esta paixão. Então nós criamos Modulandu.
   Música pode ser modulada de diversas maneiras: rítmica e harmonicamente, mas também histórica e culturalmente. Sons modulam o nosso humor e os nossos sentidos, fazem nosso corpo se mover e nossas emoções fluírem. Nosso trabalho é potencializar a música como uma modulação de nossas vidas, é fazer seu produto soar único e tornar a experiência sonora dos conteúdos
 digitais memorável."
 
@@ -23,29 +23,29 @@ services:
   enable: 1
   title: "Our services"
   items:
-    - title: "Marketing"
+    - title: "Music Production"
       icon: "fas fa-chart-bar"
-      text: "Focused on creating, publishing, and distributing content for a targeted audience online."
+      text: "Focused on composing, recording, mixing and mastering music for a targeted audience."
 
-    - title: "Copywriting"
-      icon: "fas fa-copyright"
-      text: "Act or occupation of writing text for the purpose of advertising or other forms of marketing."
-
-    - title: "Web Design"
-      icon: "far fa-object-group"
-      text: "Design process relating to the front-end (client side) design of a website including writing."
-
-    - title: "Advertising"
+    - title: "High-quality stock music"
       icon: "fas fa-ad"
-      text: "Employs an openly sponsored, non-personal message to promote or sell a product, service."
+      text: "The perfect licensed music for your digital content. Different genres and durations so you have more choices."
 
-    - title: "Optimization"
+    - title: "Spatial audio"
+      icon: "fas fa-copyright"
+      text: "We use the latest technology to produce immersive music experiences that will delight your listeners."
+
+    - title: "Audio branding and marketing"
+      icon: "far fa-object-group"
+      text: "We can help you create the right sound identity for your channel, product or service."
+
+    - title: "Audio logos"
       icon: "fas fa-rocket"
-      text: "Improving the quality and quantity of website traffic to a website or a web page from search."
+      text: "Just like their visual counterparts, audio logos are subtle and powerful way to engage your audience with your brand."
 
-    - title: "Support"
+    - title: "Loops and samples"
       icon: "far fa-life-ring"
-      text: "Services to assist customers in making cost effective and correct use of a product."
+      text: "Need a piano loop or a new idea for a bassline? We got you covered."
 
 ### Video [ videoSection ]
 video:
