@@ -94,25 +94,6 @@ authorName = "Fernando Filho"
 #formspreeURL = "" #YOUR FORMSPREE URL
 googleAnalytics = "G-03JK3CH1S4"
 
-# Language-specific configuration
-[languages]
-  [languages.en]
-    title = 'Modulandu - Music production'
-    weight = 1
-    #[languages.en.params]
-      #dateFormat = "January 2, 2006"
-      #linkedin = 'https://linkedin.com/whoever'
-  [languages.pt]
-    title = 'Modulandu - Produção musical'
-    weight = 2
-    #[languages.pt.params]
-      #dateFormat = "2 de Janeiro de 2006"
-      #linkedin = 'https://linkedin.com/fr/whoever'
-    [[languages.pt.menu.main]]
-      identifier = "about"
-      name = 'Sobre'
-      #url = '/pt/about'
-
 # Preloader Settings
 [params.preloader]
 logo = "images/logo-face.png"
