@@ -1,5 +1,6 @@
 ---
 title: Home
+builder: true
 sections:
-  - mainSlider
+  - halfSlider
 ---
