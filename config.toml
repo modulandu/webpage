@@ -18,73 +18,21 @@ defaultContentLanguage = 'en'
   name = "Home"
   url = "/"
   weight = 1
-  [[menu.main]]
-    identifier = "home-parallax"
-    parent = "home"
-    name = "Parallax Slider"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = "home-grid"
-    parent = "home"
-    name = "Grid Slider"
-    url = "/home-grid/"
-    weight = 2
-  [[menu.main]]
-    identifier = "home-half"
-    parent = "home"
-    name = "Half Slider"
-    url = "/home-half/"
-    weight = 3
-  [[menu.main]]
-    identifier = "home-blur"
-    parent = "home"
-    name = "Blur Slider"
-    url = "/home-blur/"
-    weight = 4
-  [[menu.main]]
-    identifier = "home-disp"
-    parent = "home"
-    name = "Distortion Slider"
-    url = "/home-disp/"
-    weight = 5
 [[menu.main]]
   identifier = "about"
   name = "About"
   url = "/about/"
   weight = 2
 [[menu.main]]
-  identifier = "works"
-  name = "Works"
+  identifier = "our-music"
+  name = "Our Services"
   url = "/portfolio/"
   weight = 3
-  [[menu.main]]
-    identifier = "works-grid"
-    parent = "works"
-    name = "Works"
-    url = "/portfolio/"
-    weight = 1
-  [[menu.main]]
-    identifier = "works-gallery"
-    parent = "works"
-    name = "Gallery"
-    url = "/gallery/"
-    weight = 2
 [[menu.main]]
   identifier = "contact"
   name = "Contact"
   url = "/contact/"
   weight = 4
-[[menu.main]]
-  identifier = "blog"
-  name = "Blog"
-  url = "/blog/"
-  weight = 5
-[[menu.main]]
-  identifier = "contact"
-  name = "Contact"
-  url = "/contact/"
-  weight = 6
 
 # Main Settings
 [params]
