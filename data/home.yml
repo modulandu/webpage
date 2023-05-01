@@ -64,34 +64,34 @@ grid_slider:
 half_slider:
   enable: true
   slides:
-    - title: "Melanin <br>Goddess"
-      subtitle: "branding"
+    - title: "We are Modulandu"
+      #subtitle: "Solutions in sound and music"
       description: "
-        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+        Solutions in sound and music
       "
       link: "/portfolio/melanin-goddess/"
       image: "images/started-n19-1080x1080.jpg"
 
-    - title: "Astronaut"
-      subtitle: "photo"
+    - title: "Stock music"
+      #subtitle: "photo"
       description: "
-        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+        Find the perfect music for your image or video
       "
       link: "/portfolio/astronaut/"
       image: "images/started-n12-1000x1080.jpg"
 
-    - title: "The Dance"
-      subtitle: "art"
+    - title: "Sound identity"
+      #subtitle: "art"
       description: "
-        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+        Create a memorable sound identity for your channel
       "
       link: "/portfolio/the-dance/"
       image: "images/started-n2_4-1080x1080.jpg"
 
-    - title: "Blue denim"
-      subtitle: "branding"
+    - title: "Music production"
+      #subtitle: "branding"
       description: "
-        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+        Need something more specific? Contact us.
       "
       link: "/portfolio/blue-denim/"
       image: "images/started-n15-1080x1080.jpg"
