@@ -1,7 +1,7 @@
 # General Settings
-#title = "Modulandu"
+title = "Modulandu"
 baseURL = "https://modulandu.com" #YOUR SITE URL
-#languageCode = "en-us"
+languageCode = "en-us"
 #languageCode = "pt-br"
 theme = "aster"
 resourceDir = "resources"
