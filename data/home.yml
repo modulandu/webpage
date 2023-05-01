@@ -5,7 +5,7 @@
 
 ### Main Slider [ mainSlider ]
 main_slider:
-  enable: true
+  enable: false
   slides:
     - title: "Melanin <br>Goddess"
       subtitle: "branding"
@@ -33,7 +33,7 @@ main_slider:
 
 ### Grid Slider [ gridSlider ]
 grid_slider:
-  enable: true
+  enable: false
   slides:
     - title: "Astronaut"
       subtitle: "photo"
@@ -77,7 +77,7 @@ half_slider:
       description: "
         Find the perfect music for your image or video
       "
-      link: "/portfolio/astronaut/"
+      link: "/services/stock-music/"
       image: "images/started-n12-1000x1080.jpg"
 
     - title: "Sound identity"
@@ -85,7 +85,7 @@ half_slider:
       description: "
         Create a memorable sound identity for your channel
       "
-      link: "/portfolio/the-dance/"
+      link: "/services/sound-identity/"
       image: "images/started-n2_4-1080x1080.jpg"
 
     - title: "Music production"
@@ -93,12 +93,12 @@ half_slider:
       description: "
         Need something more specific? Contact us.
       "
-      link: "/portfolio/blue-denim/"
+      link: "/services/music-production/"
       image: "images/started-n15-1080x1080.jpg"
 
 ### Disp Slider [ dispSlider ]
 disp_slider:
-  enable: true
+  enable: false
   slides:
     - title: "Astronaut"
       subtitle: "photo"
@@ -122,7 +122,7 @@ disp_slider:
 
 ### Blur Slider [ blurSlider ]
 blur_slider:
-  enable: true
+  enable: false
   slides:
     - title: "Melanin <br>Goddess"
       subtitle: "branding"
