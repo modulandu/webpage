@@ -23,6 +23,18 @@ defaultContentLanguage = 'en'
   name = "Services"
   url = "/services/"
   weight = 2
+  [[menu.main]]
+    identifier = "stock-music"
+    parent = "services"
+    name = "Stock Music"
+    url = "/stock-music/"
+    weight = 1
+  [[menu.main]]
+    identifier = "consulting"
+    parent = "services"
+    name = "Consulting"
+    url = "/consulting/"
+    weight = 2
 [[menu.main]]
   identifier = "portfolio"
   name = "Portfolio"
@@ -32,12 +44,12 @@ defaultContentLanguage = 'en'
   identifier = "about"
   name = "About"
   url = "/about/"
-  weight = 3
+  weight = 4
 [[menu.main]]
   identifier = "contact"
   name = "Contact"
   url = "/contact/"
-  weight = 3
+  weight = 5
 
 # Main Settings
 [params]
@@ -90,17 +102,11 @@ tags = 1 #SIDEBAR TAG TAXONOMY WIDGET: [ 1 - yes, 0 - no ]
 [params.portfolio]
 homeNumOfItems = 12
 [[params.portfolio.filters]]
-name = "UI UX Design"
-slug = "ui-ux-design"
+name = "Long tracks"
+slug = "long-tracks"
 [[params.portfolio.filters]]
-name = "Photography"
-slug = "photography"
-[[params.portfolio.filters]]
-name = "Development"
-slug = "development"
-[[params.portfolio.filters]]
-name = "Branding"
-slug = "branding"
+name = "Brazilian"
+slug = "brazilian"
 
 # Sitemap Settings
 [sitemap]
