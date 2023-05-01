@@ -69,9 +69,9 @@ logo = "images/logo.png"
 
 # Footer Settings
 [params.footer]
-copyright = "Copyright © 2023 Modulandu"
+copyright = "2023 Modulandu"
 col1_title = "Address:"
-col1_text = "Ridgewood Queens,<br/>NY 11385, USA"
+col1_text = "Campinas/Bertioga Studios<br/>SP, Brazil"
 col2_title = "Follow Us:"
 col2_text = ""
 col3_title = "Get in touch:"
