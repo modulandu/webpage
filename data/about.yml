@@ -11,12 +11,19 @@ parallax:
 ### Description [ descriptionSection ]
 description:
   enable: 1
-  title: "Soluções em som <br /> e música"
-  column1: "Dividimos uma paixão por descobrir novos sons e decidimos compartilhar esta paixão. Então nós criamos Modulandu.
-  Música pode ser modulada de diversas maneiras: rítmica e harmonicamente, mas também histórica e culturalmente. Sons modulam o nosso humor e os nossos sentidos, fazem nosso corpo se mover e nossas emoções fluírem. Nosso trabalho é potencializar a música como uma modulação de nossas vidas, é fazer seu produto soar único e tornar a experiência sonora dos conteúdos
-digitais memorável."
+  title: "We are sound <br /> and music"
+  column1: "We share a passion for discovering new sounds and decided to share this passion. So we created Modulandu.
+   Music can be modulated in many ways: rhythmically and harmonically, but also historically and culturally. 
+   Sounds modulate our mood and our senses, make our body move and our emotions flow. 
+   <br />
+   <i>Our work is to make your brand, product or channel sound unique and memorable.</i>"
 
-  column2: "Trata-se de sentir, compreender e apreciar a música e os sons. De saber mais sobre as pessoas que criam e criar com elas. Nós inventamos e facilitamos o desenvolvimento de uma identidade sonora para seu produto ou serviço. Ensinamos maneiras de aprimorar a parte sonora e musical de seu trabalho e prestamos consultoria para a produção sonora de conteúdos digitais. Venha conosco nesta viagem."
+  column2: "It is about feeling, understanding and enjoying music and sounds.
+     It is the craft of using the right tools and wisdom of the people who create them.
+     We invent and facilitate the development of a sound identity for your product or service.
+     <br />
+     <i>We can help you improve the sound and music of your work.
+     Come with us in this journey.</i>"
 
 ### Services [ servicesSection ]
 services:
