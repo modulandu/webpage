@@ -1,5 +1,5 @@
 ---
-title: About
+title: We are Modulandu
 builder: true
 sections:
   - headingSection
