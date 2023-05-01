@@ -1,8 +1,8 @@
 ---
 # preview details
 title: Movimento
-category: Relaxation
-category_slug: relax
+category: Relaxing
+category_slug: relaxing
 image: images/started-n12-900x1170.jpg
 
 # full details

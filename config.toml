@@ -102,8 +102,8 @@ tags = 1 #SIDEBAR TAG TAXONOMY WIDGET: [ 1 - yes, 0 - no ]
 [params.portfolio]
 homeNumOfItems = 12
 [[params.portfolio.filters]]
-name = "Long tracks"
-slug = "long-tracks"
+name = "Relaxing"
+slug = "relaxing"
 [[params.portfolio.filters]]
 name = "Brazilian"
 slug = "brazilian"
