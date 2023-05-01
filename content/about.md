@@ -6,9 +6,9 @@ sections:
   - parallaxSection
   - descriptionSection
   - serviceSection
-  - listSection
-  - videoSection
+ # - listSection
+ # - videoSection
   - teamSection
-  - testimonialSection
-  - clientsSection
+ # - testimonialSection
+ # - clientsSection
 ---
