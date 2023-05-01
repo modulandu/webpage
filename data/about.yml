@@ -56,7 +56,7 @@ services:
 
 ### Video [ videoSection ]
 video:
-  enable: 1
+  enable: 0
   image: "/images/about/video.jpg"
   video_id: "Gu6z6kIukgg"
 
