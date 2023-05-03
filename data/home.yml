@@ -77,7 +77,7 @@ half_slider:
       description: "
         Find the perfect music for your image or video
       "
-      link: "/services/stock-music/"
+      link: "/stock-music/"
       image: "images/started-n12-1000x1080.jpg"
 
     - title: "Sound identity"
@@ -85,7 +85,7 @@ half_slider:
       description: "
         Create a memorable sound identity for your channel
       "
-      link: "/services/sound-identity/"
+      link: "/consulting/"
       image: "images/started-n2_4-1080x1080.jpg"
 
     - title: "Music production"
@@ -93,7 +93,7 @@ half_slider:
       description: "
         Need something more specific? Contact us.
       "
-      link: "/services/music-production/"
+      link: "/contact/"
       image: "images/started-n15-1080x1080.jpg"
 
 ### Disp Slider [ dispSlider ]
