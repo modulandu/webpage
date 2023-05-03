@@ -1,8 +1,8 @@
 ---
 # preview details
 title: Samba pro Paulinho
-category: Experimental
-category_slug: experimental
+category: Brazilian
+category_slug: brazilian
 image: images/started-n12-900x1170.jpg
 
 # full details
@@ -12,7 +12,7 @@ info:
   #  value: 
 
   - label: Category
-    value: Experimental
+    value: Brazilian
 
   - label: Year
     value: 2022
@@ -25,7 +25,7 @@ info:
 
 description1:
   enable: true
-  title: "Techno-electronic Samba and the vision of Paulinho da Viola"
+  title: "Techno-Electro-Samba and the vision of Paulinho da Viola"
   text: "<p>By mixing the Brazilian pandeiro with sanfona, and agogô with synthesized drums, this experimental track attempts to explore new sounds within the Brazilian tradition of Samba. The track features Paulinho da Viola's comments on samba culture in one of his interviews at TV Cultura. We sampled his voice and added some effects such as reverb, drawing the inspiration from electronic music, particularly ambient techno works. Enjoy. 
   </p>"
 
