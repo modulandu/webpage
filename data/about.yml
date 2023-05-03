@@ -139,19 +139,23 @@ clients:
       image: "/images/brand/brand_logo_05_1.png"
       link: ""
 
-### Cotacts [ contactSection ]
+### Contacts [ contactSection ]
 contacts:
   enable: 1
   title: "Contact info"
   items:
-    - title: "Phone:"
-      icon: "fas fa-phone-alt"
-      text: "+1 (800) 123 56 89"
+    #- title: "WhatsApp:"
+    #  icon: "fas fa-phone-alt"
+    #  text: "+55 84 981568158"
 
     - title: "E-mail:"
       icon: "fas fa-at"
-      text: "aster@domain.com"
+      text: "modulandu@gmail.com"
 
-    - title: "Location:"
-      icon: "fab fa-font-awesome-flag"
-      text: "Marollem St. 32, New York, USA."
+    #- title: "Instagram:"
+    #  icon: "fas fa-instagram"
+    #  text: "@modulandu"
+
+    #- title: "Location:"
+    #  icon: "fab fa-font-awesome-flag"
+    #  text: "Campinas-Bertioga Studios, São Paulo, Brazil."
