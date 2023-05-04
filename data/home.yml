@@ -70,7 +70,7 @@ half_slider:
         Solutions in sound and music
       "
       link: "/about/"
-      image: "images/started-n19-1080x1080.jpg"
+      #image: "images/started-n19-1080x1080.jpg"
 
     - title: "Stock music"
       #subtitle: "photo"
@@ -78,15 +78,15 @@ half_slider:
         Find the perfect music for your image or video
       "
       link: "/stock-music/"
-      image: "images/stockmusic-squared.jpg"
+      image: "images/stock-music-squared.jpg"
 
     - title: "Sound identity"
       #subtitle: "art"
       description: "
         Create a memorable sound identity for your channel
       "
-      link: "/consulting/"
-      image: "images/started-n2_4-1080x1080.jpg"
+      link: "/sound-identity/"
+      image: "images/sound-identity-squared.jpg"
 
     - title: "Music production"
       #subtitle: "branding"
