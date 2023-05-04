@@ -3,10 +3,10 @@
 title: Samba pro Paulinho
 category: Brazilian
 category_slug: brazilian
-image: images/started-n12-900x1170.jpg
+image: images/portfolio/samba-pro-paulinho-cover.jpg
 
 # full details
-full_image: images/started_new.jpg
+full_image: images/portfolio/samba-pro-paulinho-cover.jpg
 info:
   #- label: Client
   #  value: 
@@ -43,7 +43,7 @@ description2:
 
 
 carousel:
-  enable: true
+  enable: false
   images:
     - images/started-n2_4.jpg
     - images/started-n20.jpg
