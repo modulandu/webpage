@@ -6,7 +6,7 @@
 ### Parallax [parallaxSection]
 parallax:
   enable: 1
-  image: "/images/about/about2.jpg"
+  image: "/images/about/about.jpg"
 
 ### Description [ descriptionSection ]
 description:
@@ -38,21 +38,13 @@ services:
       icon: "fas fa-ad"
       text: "The perfect licensed music for your digital content. Different genres and durations so you have more choices."
 
-    - title: "Spatial audio"
-      icon: "fas fa-copyright"
-      text: "We use the latest technology to produce immersive music experiences that will delight your listeners."
-
-    - title: "Audio branding and marketing"
+    - title: "Sound identity"
       icon: "far fa-object-group"
       text: "We can help you create the right sound identity for your channel, product or service."
 
     - title: "Audio logos"
       icon: "fas fa-rocket"
       text: "Just like their visual counterparts, audio logos are subtle and powerful way to engage your audience with your brand."
-
-    - title: "Loops and samples"
-      icon: "far fa-life-ring"
-      text: "Need a piano loop or a new idea for a bassline? We got you covered."
 
 ### Video [ videoSection ]
 video:
