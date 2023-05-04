@@ -1,5 +1,5 @@
 ---
-title: Consulting
+title: Sound Identity
 builder: true
 sections:
   - headingSection
