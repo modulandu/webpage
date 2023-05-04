@@ -20,7 +20,7 @@ defaultContentLanguage = 'en'
   weight = 1
 [[menu.main]]
   identifier = "services"
-  name = "Our services"
+  name = "Our Services"
   url = "/services/"
   weight = 2
   [[menu.main]]
@@ -30,10 +30,10 @@ defaultContentLanguage = 'en'
     url = "/stock-music/"
     weight = 1
   [[menu.main]]
-    identifier = "consulting"
+    identifier = "sound-identity"
     parent = "services"
-    name = "Consulting"
-    url = "/consulting/"
+    name = "Sound Identity"
+    url = "/sound-identity/"
     weight = 2
 [[menu.main]]
   identifier = "portfolio"
