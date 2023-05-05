@@ -1,17 +1,13 @@
 ### Parallax [parallaxSection]
 parallax:
   enable: 1
-  image: "/images/about/about2.jpg"
+  image: "/images/services/stock-music.jpg"
 
 ### Description [ descriptionSection ]
 description:
   enable: 1
   title: "We are sound <br /> and music"
-  column1: "We share a passion for discovering new sounds and decided to share this passion. So we created Modulandu.
-   Music can be modulated in many ways: rhythmically and harmonically, but also historically and culturally. 
-   Sounds modulate our mood and our senses, make our body move and our emotions flow. 
-   <br />
-   <i>Our work is to make your brand, product or channel sound unique and memorable.</i>"
+  column1: "blah bla</i>"
 
   column2: "It is about feeling, understanding and enjoying music and sounds.
      It is the craft of using the right tools and wisdom of the people who create them.

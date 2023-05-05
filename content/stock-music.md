@@ -3,7 +3,7 @@ title: Stock music
 builder: true
 sections:
   - headingSection
- # - parallaxSection
+  - parallaxSection
   - descriptionSection
  # - serviceSection
   - listSection
