@@ -77,7 +77,7 @@ half_slider:
       description: "
         Find the perfect music for your image or video
       "
-      link: "/stock-music/"
+      link: "/about/"
       image: "images/stock-music-squared.jpg"
 
     - title: "Sound identity"
@@ -85,7 +85,7 @@ half_slider:
       description: "
         Create a memorable sound identity for your channel
       "
-      link: "/sound-identity/"
+      link: "/about/"
       image: "images/sound-identity-squared.jpg"
 
     - title: "Music production"
