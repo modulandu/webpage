@@ -3,10 +3,10 @@
 title: Movimento
 category: Relaxing
 category_slug: relaxing
-image: images/started-n12-900x1170.jpg
+image: images/portfolio/movimento-cover.png
 
 # full details
-full_image: images/started_new.jpg
+full_image: images/portfolio/movimento-cover.png
 info:
   - label: Client
     value: Vitaran
