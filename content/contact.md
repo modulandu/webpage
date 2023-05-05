@@ -5,5 +5,5 @@ sections:
   - headingSection
   - parallaxSection
   - contactSection
-parallaxImage: images/contact.jpg
+parallaxImage: images/contact/contact.jpg
 ---
