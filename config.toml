@@ -26,13 +26,13 @@ defaultContentLanguage = 'en'
   [[menu.main]]
     identifier = "stock-music"
     parent = "services"
-    name = "Stock Music"
+    name = "Stock music"
     url = "/stock-music/"
     weight = 1
   [[menu.main]]
     identifier = "sound-identity"
     parent = "services"
-    name = "Sound Identity"
+    name = "Sound identity"
     url = "/sound-identity/"
     weight = 2
 [[menu.main]]
