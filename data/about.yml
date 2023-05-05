@@ -44,7 +44,7 @@ services:
 
     - title: "Audio logos"
       icon: "fas fa-rocket"
-      text: "Just like their visual counterparts, audio logos are subtle and powerful way to engage your audience with your brand."
+      text: "Just like their visual counterparts, audio logos are a subtle and powerful way to engage your audience with your brand."
 
 ### Video [ videoSection ]
 video:
