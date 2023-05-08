@@ -74,7 +74,7 @@ team:
   enable: 1
   title: "Meet the team"
   items:
-    - name: "Fernando Filho"
+    - name: "Fernando Figueira"
       #subname: "Founder"
       image: "/images/team/team5.jpg"
 

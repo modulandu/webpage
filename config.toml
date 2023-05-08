@@ -37,7 +37,7 @@ defaultContentLanguage = 'en'
 # Main Settings
 [params]
 dateFormat = "January 2, 2006"
-authorName = "Fernando Filho"
+authorName = "Fernando Figueira"
 #disqusComments = "test" #YOUR DISQUS COMMENTS SHORTNAME
 #formspreeURL = "" #YOUR FORMSPREE URL
 googleAnalytics = "G-03JK3CH1S4"
