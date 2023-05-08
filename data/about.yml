@@ -82,9 +82,9 @@ team:
       #subname: "Co-founder"
       image: "/images/team/team1.jpg"
 
-    - name: "Mileny Galdino"
+    #- name: "Mileny Galdino"
       #subname: "Designer"
-      image: "/images/team/team2.jpg"
+      #image: "/images/team/team2.jpg"
 
 ### Testimonial [ testimonialSection ]
 testimonial:
